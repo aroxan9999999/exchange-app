@@ -4,7 +4,7 @@
 
 ```bash
 $ git clone https://github.com/aroxan9999999/exchange-app.git
-$ cd django-exchange-app/
+$ cd exchange-app/
 $ pip install -r requirements.txt
 $ cd app/
 $ python manage.py migrate
